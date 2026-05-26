@@ -44,19 +44,23 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ <img width="1374" height="644" alt="image" src="https://github.com/user-attachments/assets/91addbda-72fe-480a-a5e0-c83f65e86d06" />
+
 
 
 b.  KCL:
- 
+ <img width="1433" height="712" alt="image" src="https://github.com/user-attachments/assets/5aa29069-5321-4c79-8268-d149ab68ed4e" />
+
 
 Calculation:
 
 a.   KVL:
- 
+ <img width="1390" height="1600" alt="image" src="https://github.com/user-attachments/assets/258bce1d-8e13-496a-93ac-26c96ac30359" />
+
 
 
 b.  KCL:
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/37f5f3c4-3e4c-4c16-9fd8-755b2656cce6" />
 
 
 
@@ -64,10 +68,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ <img width="1182" height="619" alt="image" src="https://github.com/user-attachments/assets/083cb01b-7a7c-4086-8097-ae87bdb9a265" />
+
 
 
 b.  KCL:
+<img width="926" height="484" alt="image" src="https://github.com/user-attachments/assets/be65ce8b-0696-4cce-90b3-1ebf14d3532e" />
 
 
 
